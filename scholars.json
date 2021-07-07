@@ -1,0 +1,32 @@
+var scholars = [{
+        "slot": 0,
+        "adress": "0xd83efc1d2df06a8a213f58ce698bf092ca76fd84",
+        "name": "Raiane",
+        "slpsnapshot": 188
+    },
+    {
+        "slot": 1,
+        "adress": "0x65ffdbc1eb4304bb80532ce1ebd2b19894ca8fa7",
+        "name": "Andre",
+        "slpsnapshot": 0
+    },
+    {
+        "slot": 2,
+        "adress": "0xf40ac76f8c19e886dfe0fc144593d5ee53928789",
+        "name": "Carlos",
+        "slpsnapshot": 0
+    },
+    {
+        "slot": 3,
+        "adress": "0x3830a530444b8488ab151ed421f8e503312c7067",
+        "name": "Naiara",
+        "slpsnapshot": 0
+    },
+    {
+        "slot": 4,
+        "adress": "0xa9b5b2740e23d59032a74e2105ab056dd5dc7288",
+        "name": "Nadia",
+        "slpsnapshot": 0
+    }
+
+]
