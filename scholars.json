@@ -2,7 +2,7 @@ var scholars = [{
         "slot": 0,
         "adress": "0xd83efc1d2df06a8a213f58ce698bf092ca76fd84",
         "name": "Raiane",
-        "slpsnapshot": 188
+        "slpsnapshot": 0
     },
     {
         "slot": 1,
