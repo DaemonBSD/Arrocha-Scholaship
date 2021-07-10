@@ -31,13 +31,13 @@ var scholars = [{
     {
         "slot": 5,
         "adress": "0xf94cfa7f1a96d7905543d8151794a14114414d59",
-        "name": "Ludiana",
+        "name": "Rafa",
         "slpsnapshot": 0
     },
     {
         "slot": 6,
         "adress": "0x90fd7922fec00fef89455ec611a46bbe109195f5",
-        "name": "Rafa",
+        "name": "Ludiana",
         "slpsnapshot": 0
     }            
 
